@@ -1,6 +1,7 @@
 2024/02
 
 Miles Miller, Thomas Ng, 2024
+This work is licensed under CC BY-NC-SA 4.0 
 
 README
 Requirements:
